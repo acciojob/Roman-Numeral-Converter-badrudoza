@@ -26,8 +26,8 @@ function convertToRoman(num) {
 return res;
 }
 // You can test your code by running the above function and printing it to console by pressing the run button at the top. To run it with input 36, uncomment the following line
-let n=prompt("enter no");
-window.alert(convertToRoman(n));
+
+console.log(convertToRoman(36));
 
 
 
